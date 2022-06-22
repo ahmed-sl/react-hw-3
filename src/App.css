@@ -1,0 +1,16 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: antiquewhite;
+}
+.container{
+  width: 30rem;
+}
+
+.data{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
